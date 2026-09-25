@@ -1,0 +1,16 @@
+{
+  "name": "sheik-redes",
+  "version": "1.0.0",
+  "description": "Sheik Redes - Redes de Proteção (sheikredes.com.br / www.sheikredes.com.br)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "private": true
+}
